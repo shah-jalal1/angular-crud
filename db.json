@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "testy",
+      "lastName": "testyyyy",
+      "salary": "205"
+    },
+    {
+      "id": 5,
+      "firstName": "aaa",
+      "lastName": "bbb",
+      "salary": "520"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
